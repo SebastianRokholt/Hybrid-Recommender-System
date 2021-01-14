@@ -11,7 +11,7 @@ and modified to be slightly more challenging to clean than the original.
 
 ## My Process
 In order to learn as much as possible about recommender systems and data science in general, 
-I decided early on to follow the Data Science Process for this project. 
+I decided early on to follow the Data Science Process for this project:
 
 ![The Data Science Process](/data-science-process.png)
 
