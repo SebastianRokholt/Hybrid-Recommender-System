@@ -13,7 +13,7 @@ and modified to be slightly more challenging to clean than the original.
 In order to learn as much as possible about recommender systems and data science in general, 
 I decided early on to follow the Data Science Process for this project. 
 
-![The Data Science Process(/data-science-process.png)
+![The Data Science Process](/data-science-process.png)
 
 This project has largely been motivated by wanting to learn how to implement a recommender system in Python. 
 I started with wondering whether I would be able to improve the root mean squared error (RMSE) of a superior recommender system 
