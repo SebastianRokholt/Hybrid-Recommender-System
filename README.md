@@ -38,9 +38,9 @@ I am hoping that I'll soon find the time to do so.
 
 
 ## Explanation of files
-* [raw data](https://github.com/SebastianRokholt/Hybrid-Recommender-System) - The raw data files.
-* [Part 1: cleanup.ipynb](https://github.com/SebastianRokholt/Hybrid-Recommender-System) - Cleaning the raw data files. 
-* [cleaned data](https://github.com/SebastianRokholt/Hybrid-Recommender-System) - The resulting files after performing the data cleaning.
-* [Part 2: analysis-and-modelling.ipynb](https://github.com/SebastianRokholt/Hybrid-Recommender-System) - Data Analysis, Exploration and Modelling.
-* [Part 3: predict.ipynb](https://github.com/SebastianRokholt/Hybrid-Recommender-System) - Predicting ratings for all movies from all users.
+* [raw data](https://github.com/SebastianRokholt/Hybrid-Recommender-System/tree/main/raw_data) - The raw data files.
+* [Part 1: cleanup.ipynb](https://github.com/SebastianRokholt/Hybrid-Recommender-System/blob/main/cleanup.ipynb) - Cleaning the raw data files. 
+* [cleaned data](https://github.com/SebastianRokholt/Hybrid-Recommender-System/tree/main/cleaned_data) - The resulting files after performing the data cleaning.
+* [Part 2: analysis-and-modelling.ipynb](https://github.com/SebastianRokholt/Hybrid-Recommender-System/blob/main/analysis-and-modelling.ipynb) - Data Analysis, Exploration and Modelling.
+* Part 3: predict.ipynb (Coming soon!) - Predicting ratings for all movies from all users.
 
