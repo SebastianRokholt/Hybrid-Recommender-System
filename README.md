@@ -1,6 +1,6 @@
 # Movie Recommender System
 This repository contains the files for a hybrid recommender system for movie ratings.
-The project is based on the MovieLens 1M Dataset, available here: https://grouplens.org/datasets/movielens/1m/
+The project is based on the MovieLens 1M Dataset, available [here](https://grouplens.org/datasets/movielens/1m/). 
 
 
 ## The Dataset
