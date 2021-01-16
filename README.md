@@ -9,7 +9,7 @@ consists of a somewhat customized version of the MovieLens 1M dataset, which con
 6000 users on 4000 movies in the years 2000-2003. The data provided through INF161 was translated to Norwegian 
 and modified to be slightly more challenging to clean than the original. 
 
-## My Process
+## The Process
 In order to learn as much as possible about recommender systems and data science in general, 
 I decided early on to follow the Data Science Process for this project:
 
