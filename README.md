@@ -1,6 +1,6 @@
 # Movie Recommender System
 This repository contains the files for a Data Science project about recommender systems and machine learning. 
-The project revolved around building a hybrid recommender system with collaborative and content-based filtering. 
+The project revolves around building a hybrid recommender system with collaborative and content-based filtering. 
 
 
 ## The Dataset
