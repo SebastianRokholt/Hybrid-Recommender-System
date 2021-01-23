@@ -1,13 +1,13 @@
 # Movie Recommender System
-This repository contains the files for a hybrid recommender system for movie ratings.
-The project is based on the MovieLens 1M Dataset, available [here](https://grouplens.org/datasets/movielens/1m/). 
+This repository contains the files for a Data Science project about recommender systems and machine learning. 
+The project revolved around building a hybrid recommender system with collaborative and content-based filtering. 
 
 
 ## The Dataset
 The dataset was provided through the course material for INF161 at the University of Bergen. It
-consists of a somewhat customized version of the MovieLens 1M dataset, which contains 1 million movie ratings given by 
-6000 users on 4000 movies in the years 2000-2003. The data provided through INF161 was translated to Norwegian 
-and modified to be slightly more challenging to clean than the original. 
+consists of a somewhat customized version of the [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/1m/), 
+which contains 1 million movie ratings given by 6000 users on 4000 movies in the years 2000-2003. 
+The data provided through INF161 was translated to Norwegian and modified to be slightly more challenging to clean than the original. 
 
 ## The Process
 In order to learn as much as possible about recommender systems and data science in general, 
