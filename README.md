@@ -4,10 +4,8 @@ The project revolves around building a hybrid recommender system with collaborat
 
 
 ## The Dataset
-The dataset was provided through the course material for INF161 at the University of Bergen. It
-consists of a somewhat customized version of the [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/1m/), 
+All data was sourced from the [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/1m/), 
 which contains 1 million movie ratings given by 6000 users on 4000 movies in the years 2000-2003. 
-The data provided through INF161 was translated to Norwegian and modified to be slightly more challenging to clean than the original. 
 
 ## The Process
 In order to learn as much as possible about recommender systems and data science in general, 
